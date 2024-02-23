@@ -1,3 +1,4 @@
 #!/usr/bin/bash env
-/** This script is printing its own PID **/
+##This script is printing its own PID
+
 echo $$
