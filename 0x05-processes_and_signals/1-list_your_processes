@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# This script prints processes running
+#Printing all processes,all users and including those  without TTY
+#Displays in user-oriented format
+#show process hierachy
+
+ps -a -x -u -f
