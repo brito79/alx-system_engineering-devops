@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+#Printing Best School nine times then print Hi on newline
+#Required to use while and if loops
+
+count=0
+
+while [ $count -lt 10 ]
+do
+    echo "Best School"
+    
+    if [ $count == 9 ]
+    then
+         echo "Hi"
+    fi
+done
