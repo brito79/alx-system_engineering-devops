@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #The script printing Best School ten times using while loop
 
-count = 0
+count=0
 
 while [ $count -lt 10 ]
 do
