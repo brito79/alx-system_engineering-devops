@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-#A script that displays lines containing bas, for easy getting of the PID of Bash Process
+# Displays a list of currently running processes containing the bash keyword.
 # shellcheck disable=SC2009
-./1-list_your_processes | grep "bash"
+
+ps -aux | grep bash

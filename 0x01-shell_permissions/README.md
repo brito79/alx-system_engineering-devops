@@ -1,2 +1,1 @@
-su- This script switches the user from the current user to Betty
-
+Create a script that switches the current user to the user betty.
