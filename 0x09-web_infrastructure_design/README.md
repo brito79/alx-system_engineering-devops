@@ -1,2 +1,6 @@
-nfrastructure design
-Project done during Full Stack Software Engineering studies at Alx School. It aims to learn about how to design a Web Infrastructure.
+# 0x09. Web infrastructure design
+
+## Description
+
+This project contains links to diagrams representing different web infrastructures.
+Its goal is to understand, on a very high-level, how web infrastructures are organized and what are their components.

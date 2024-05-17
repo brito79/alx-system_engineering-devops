@@ -1,1 +1,1 @@
-Create a script that switches the current user to the user betty.
+This scripts shows varipus permissions that can be done in shell

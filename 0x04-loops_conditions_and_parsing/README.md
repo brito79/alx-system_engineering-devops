@@ -1,2 +1,1 @@
-
-ops_conditions_and_parsing
+Shellcheck Project
